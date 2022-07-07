@@ -1,0 +1,7 @@
+---
+layout: page
+title: "DOCCS Group"
+permalink: /doccs_group/
+---
+
+Dynamics, Optimization, and Control of Complex Systems (DOCCS) Group
