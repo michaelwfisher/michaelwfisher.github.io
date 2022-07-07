@@ -1,10 +1,7 @@
-
 ---
-
 layout: page
-title: "Research"
-permalink: /research/
-
+title: Teaching
+permalink: /teaching/
 ---
 
 Teaching Experience
