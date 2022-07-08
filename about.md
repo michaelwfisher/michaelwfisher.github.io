@@ -13,7 +13,7 @@ My [Curriculum Vitae](cvMWF.pdf) and my profile on
 [Google Scholar](https://scholar.google.ca/citations?user=rozrGC8AAAAJ&hl=
 en&oi=ao).
 
-# Brief Biography
+## Brief Biography
 
 Michael W. Fisher joined the University of Waterloo in 2022, where he leads the
 Dynamics, Optimization, and Control of Complex Systems (DOCS) Group.
@@ -26,7 +26,7 @@ Swarthmore College in 2014.  He was a finalist for the 2017 Conference on
 Decision and Control (CDC) Best Student Paper Award and a recipient of the
 2019 CDC Outstanding Student Paper Award.
 
-# Research Interests
+## Research Interests
 
 My research interests are centered around dynamics, optimization, and control
 of complex, cyber-physical systems.
@@ -43,7 +43,7 @@ Further details about my
 and the [Dynamics, Optimization, and Control of Complex Systems (DOCS)
 Group](https://michaelwfisher.github.io/docs_group/).
 
-# Recent News
+## Recent News
 
 - 2022: The preprint for our paper on a new optimal control design method using
 Hardy space approximations is now
