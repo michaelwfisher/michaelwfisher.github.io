@@ -8,13 +8,10 @@ I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
 engineering/) at the
 [University of Waterloo](https://uwaterloo.ca/) in Waterloo, Canada.
-A [brief biography](#brief-biography), my full
-[Curriculum Vitae](cvMWF.pdf),
+A [brief biography](#brief-biography), my [Curriculum Vitae](cvMWF.pdf),
 and my profile on
 [Google Scholar](https://scholar.google.ca/citations?user=rozrGC8AAAAJ&hl=
 en&oi=ao).
-
-*** need a picture!!! ***
 
 # Research Interests
 
@@ -23,19 +20,29 @@ of complex, cyber-physical systems.
 
 Recent topics of interest include:
 
-1. ensemble control of distributed resources
+1. ensemble control of distributed devices
 2. optimal and constrained control
 3. nonlinear and nonsmooth stability analysis
 4. linear control to improve nonlinear robustness
 
-Further details are available
-[here](https://michaelwfisher.github.io/research/).
+Further details about my
+[research](https://michaelwfisher.github.io/research/)
+and the [Dynamics, Optimization, and Control of Complex Systems (DOCS)
+Group](https://michaelwfisher.github.io/docs_group/).
 
 # Recent News
 
+- 2022: The preprint for our paper on a new optimal control design method using
+simple pole approximations is now
+[available](https://arxiv.org/pdf/2203.16765.pdf).
 
-# Selected Publications
+- 2022: Verena's paper on control design for dynamic virtual power plants
+has been accepted for publication
+(available [here](https://arxiv.org/pdf/2108.00925.pdf)).
 
+- 2022: Our paper on nonlinear stability analysis for generic vector fields
+has been published in *SIAM Applied Dynamical Systems*
+(available [here](https://epubs.siam.org/doi/pdf/10.1137/20M1371944)).
 
 # Brief Biography
 
@@ -49,5 +56,3 @@ institution in 2017.  He received his B.A. in Mathematics and Physics from
 Swarthmore College in 2014.  He was a finalist for the 2017 Conference on
 Decision and Control (CDC) Best Student Paper Award and a recipient of the
 2019 CDC Outstanding Student Paper Award.
-
-
