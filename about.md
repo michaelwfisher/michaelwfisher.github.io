@@ -20,10 +20,14 @@ My research interests are centered around dynamics, optimization, and control
 of complex, cyber-physical systems, primarily with application to power systems.
 
 Recent topics of interest include:
+
 1. heterogeneous ensemble control
 2. optimal and constrained control
 3. nonlinear and nonsmooth stability analysis
 4. linear control to improve nonlinear robustness
+
+All developed for general complex systems, and with application to
+power systems.
 
 1. optimal, distributed, and constrained ensemble control of future power
 systems
