@@ -46,7 +46,7 @@ Group](https://michaelwfisher.github.io/docs_group/).
 # Recent News
 
 - 2022: The preprint for our paper on a new optimal control design method using
-simple pole approximations is now
+Hardy space approximations is now
 [available](https://arxiv.org/pdf/2203.16765.pdf).
 
 - 2022: Verena's paper on control design for dynamic virtual power plants
