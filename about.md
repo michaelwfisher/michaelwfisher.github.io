@@ -20,9 +20,10 @@ My research interests are centered around dynamics, optimization, and control
 of complex, cyber-physical systems, primarily with application to power systems.
 
 Recent topics of interest include:
-1.
-2. Online vulnerability assessment
-
+1. optimal, distributed, and constrained ensemble control of future power
+systems
+2. vulnerability assessment to nonsmooth disturbances in networked systems
+3. control design for improving nonlinear robustness in complex systems
 
 # Recent News
 
