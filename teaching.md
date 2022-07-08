@@ -26,7 +26,7 @@ Graduate course at University of Michigan - Ann Arbor, 2018
 
 Graduate course at ETH Zürich, 2021
 
--Control Systems 1
+- Control Systems 1
 
 Undergraduate course at ETH Zürich, 2020
 
