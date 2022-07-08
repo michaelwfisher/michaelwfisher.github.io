@@ -9,7 +9,7 @@ I am an Assistant Professor in the department of
 engineering/) at the
 [University of Waterloo](https://uwaterloo.ca/) in Waterloo, Canada.
 A [brief biography](#brief-biography), my full
-[Curriculum Vitae]({{file name=cvMWF.pdf''}}),
+[Curriculum Vitae]({{file name='cvMWF.pdf'}}),
 and my profile on
 [Google Scholar](https://scholar.google.ca/citations?user=rozrGC8AAAAJ&hl=
 en&oi=ao).
@@ -20,6 +20,11 @@ My research interests are centered around dynamics, optimization, and control
 of complex, cyber-physical systems, primarily with application to power systems.
 
 Recent topics of interest include:
+1. heterogeneous ensemble control
+2. optimal and constrained control
+3. nonlinear and nonsmooth stability analysis
+4. linear control to improve nonlinear robustness
+
 1. optimal, distributed, and constrained ensemble control of future power
 systems
 2. vulnerability assessment to nonsmooth disturbances in networked systems
