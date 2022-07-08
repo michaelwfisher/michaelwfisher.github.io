@@ -17,22 +17,17 @@ en&oi=ao).
 # Research Interests
 
 My research interests are centered around dynamics, optimization, and control
-of complex, cyber-physical systems, primarily with application to power systems.
+of complex, cyber-physical systems.
 
 Recent topics of interest include:
 
-1. heterogeneous ensemble control
+1. ensemble control of distributed resources
 2. optimal and constrained control
 3. nonlinear and nonsmooth stability analysis
 4. linear control to improve nonlinear robustness
 
-all developed for general complex systems, and with application to
-power systems.
-
-1. optimal, distributed, and constrained ensemble control of future power
-systems
-2. vulnerability assessment to nonsmooth disturbances in networked systems
-3. control design for improving nonlinear robustness in complex systems
+Further details are available
+[here](https://michaelwfisher.github.io/research/).
 
 # Recent News
 
