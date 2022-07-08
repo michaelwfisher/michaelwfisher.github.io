@@ -9,10 +9,12 @@ I am an Assistant Professor in the department of
 engineering/) at the
 [University of Waterloo](https://uwaterloo.ca/) in Waterloo, Canada.
 A [brief biography](#brief-biography), my full
-[Curriculum Vitae]({{file name='cvMWF.pdf'}}),
+[Curriculum Vitae](cvMWF.pdf),
 and my profile on
 [Google Scholar](https://scholar.google.ca/citations?user=rozrGC8AAAAJ&hl=
 en&oi=ao).
+
+%({{file name='cvMWF.pdf'}}),
 
 # Research Interests
 
