@@ -22,7 +22,7 @@ dynamic virtual power plant. More details available
 
 ### Master's Thesis
 
-- [Francisco Canales P\'{e}rez](https://ch.linkedin.com/in/francisco-canales-perez?trk=public_profile_browsemap) at [ETH Zürich](https://control.ee.ethz.ch/)
+- [Francisco Canales Perez](https://ch.linkedin.com/in/francisco-canales-perez?trk=public_profile_browsemap) at [ETH Zürich](https://control.ee.ethz.ch/)
 
 Thesis: Constrained control design for dynamic virtual power plants.
 
