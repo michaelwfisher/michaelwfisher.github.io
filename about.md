@@ -5,17 +5,32 @@ permalink: /about/
 ---
 
 I am an Assistant Professor in the department of
-[Electrical and Computer Engineering]
-(https://uwaterloo.ca/electrical-computer-engineering/) at the
+[Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
+engineering/) at the
 [University of Waterloo](https://uwaterloo.ca/) in Waterloo, Canada.
+A [brief biography](#brief-biography), my full
+[Curriculum Vitae]({{file name=cvMWF.pdf''}}),
+and my profile on
+[Google Scholar](https://scholar.google.ca/citations?user=rozrGC8AAAAJ&hl=
+en&oi=ao).
 
-Research Interests
+# Research Interests
 
-My research centers around complex systems, which are characterized by local
-dynamics coupled by
+My research interests are centered around dynamics, optimization, and control
+of complex, cyber-physical systems, primarily with application to power systems.
+
+Recent topics of interest include:
+1.
+2. Online vulnerability assessment
 
 
-Brief Biography
+# Recent News
+
+
+# Selected Publications
+
+
+# Brief Biography
 
 Michael W. Fisher joined the University of Waterloo in 2022, where he leads the
 Dynamics, Optimization, and Control of Complex Systems (DOCS) Group.
@@ -28,14 +43,7 @@ Swarthmore College in 2014.  He was a finalist for the 2017 Conference on
 Decision and Control (CDC) Best Student Paper Award and a recipient of the
 2019 CDC Outstanding Student Paper Award.
 
-Selected Publications
-
-
-
-
-
-
-CV, bio, research interests (broad), picture
+# CV, bio, research interests (broad), picture
 
 
 # This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
