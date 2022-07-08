@@ -1,6 +1,6 @@
 ---
 #A [brief biography](#brief-biography)
-layout: home
+layout: page
 title: About
 permalink: /about/
 ---

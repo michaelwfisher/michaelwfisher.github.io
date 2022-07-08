@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page
+title: About
 ---
-
-# About
 
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
