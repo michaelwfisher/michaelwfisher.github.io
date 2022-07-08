@@ -14,7 +14,7 @@ Submitted to *IEEE Transactions on Automatic Control*, 2022.
 System Level Synthesis Beyond Finite Impulse Response.
 Submitted to *IEEE Transactions on Automatic Control*, 2022.
 
-- P. D. Grontas, M. W. Fisher*, and F. Dörfler. Distributed and Constrained H2
+- P. D. Grontas, M. W. Fisher, and F. Dörfler. Distributed and Constrained H2
 Control Design via System Level Synthesis and Dual Consensus ADMM.
 Submitted to *IEEE Conference on Decision and Control*, 2022.
 
