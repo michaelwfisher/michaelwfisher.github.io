@@ -31,8 +31,8 @@ of complex, cyber-physical systems.
 
 Recent topics of interest include:
 
-1. ensemble control of distributed devices
-2. optimal and constrained control
+1. ensemble control of heterogeneous devices
+2. optimal and distributed control
 3. nonlinear and nonsmooth stability analysis
 4. linear control to improve nonlinear robustness
 

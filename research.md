@@ -10,6 +10,9 @@ intricacy of their interconnection, as well as their susceptibility
 to nonlocal and nonlinear disturbances, stability assessment and
 control design for such systems are notoriously difficult.
 
+![Testing](/figs/stability_2.png)
+
+
 My research centers around complex systems, which are characterized by local
 dynamics coupled over a network, which yields 
 
