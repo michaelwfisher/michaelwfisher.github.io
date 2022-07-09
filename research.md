@@ -23,6 +23,12 @@ complex systems, with particular focus in the following areas:
 
 ## Ensemble Control
 
+The goal of ensemble control is to control a collection of heterogeneous
+devices so that their aggregate dynamic behavior matches a desired dynamic
+behavior as closely as possible, while satisfying local device limitations and
+network dependent constraints.
+
+
 ![Ensemble Control](/figs/ensemble_1.png)
 
 ## Optimal and Distributed Control

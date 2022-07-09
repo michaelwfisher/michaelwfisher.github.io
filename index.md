@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![Profile Picture](/figs/profile_pic.jpg)
+
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
 engineering/) at the
