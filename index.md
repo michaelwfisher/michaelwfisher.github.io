@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
+#![Profile Picture](/figs/profile_pic.jpg)
 ---
 
-![Profile Picture](/figs/profile_pic.jpg)
+<img src="/figs/profile_pic.jpg" width="200" height="200">
 
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
