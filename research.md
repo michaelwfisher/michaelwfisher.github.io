@@ -23,7 +23,7 @@ complex systems, with particular focus in the following areas:
 
 ## Heterogeneous Ensemble Control
 
-![Ensemble Control](/figs/ensemble_1.png)
+<img src="/figs/ensemble_1.png" width="400" height="332">
 
 The goal of this work is to control a collection of heterogeneous
 devices so that their aggregate dynamic behavior matches a desired dynamic
@@ -77,7 +77,7 @@ to *IEEE Conference on Decision and Control*, 2022.
 
 ## Nonlinear and Nonsmooth Stability Analysis
 
-![Nonlinear Stability](/figs/stability_1.png)
+<img src="/figs/stability_1.png" width="400" height="285">`
 
 Engineered systems naturally experience large disturbances which have the
 potential to disrupt normal behavior.
@@ -106,7 +106,7 @@ Automatic Control*, 66(12): 6194-6196, 2021.  4.
 
 ## Linear Control to Improve Nonlinear Robustness
 
-![Nonlinear Control](/figs/stability_2.png)
+<img src="/figs/stability_2.png" width="400" height="386">`
 
 One measure of nonlinear robustness is the margin for safe operation:
 the smallest change in operating conditions - including system state and

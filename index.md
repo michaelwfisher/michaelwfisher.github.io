@@ -4,7 +4,7 @@ title: About
 #![Profile Picture](/figs/profile_pic.jpg)
 ---
 
-<img src="/figs/profile_pic.jpg" width="200" height="200">
+<img src="/figs/profile_pic.jpg" width="300" height="255">
 
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
