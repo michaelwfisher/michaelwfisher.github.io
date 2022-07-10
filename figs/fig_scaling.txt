@@ -1,0 +1,33 @@
+
+1. profile_pic2.jpg
+
+width = 1510
+height = 1440
+
+width = 300
+height = 286
+
+2. ensemble_1.png
+
+width = 857
+height = 712
+
+width = 600    % 400 too small
+height = 498
+
+3. stability_1.png
+
+width = 599
+height = 427
+
+width = 500    % 400 too small
+height = 356
+
+4. stability_2.png
+
+width = 535
+height = 516
+
+width = 400
+height = 386
+
