@@ -2,12 +2,13 @@
 layout: page
 title: Research
 permalink: /research/
+#![Complex Systems](/figs/complex_systems.png)
 ---
 
 ## Complex Systems
 
 <p align="center">
-![Complex Systems](/figs/complex_systems.png)
+<img src="/figs/complex_systems.png">
 </p>
 
 Complex systems consist of devices with local dynamics and controllers that
@@ -54,7 +55,7 @@ Transactions on Power Systems*, To appear.
 ## Optimal and Distributed Control
 
 <p align="center">
-![Distributed Control](/figs/ensemble_2.png)
+<img src="/figs/ensemble_2.png">
 </p>
 
 Optimal design of linear feedback controllers for devices distributed over a
