@@ -26,7 +26,7 @@ complex systems, with particular focus in the following areas:
 ## Heterogeneous Ensemble Control
 
 <p align="center">
-<img src="/figs/ensemble_1.png" width="400" height="332">
+<img src="/figs/ensemble_1.png" width="600" height="498">
 </p>
 
 The goal of this work is to control a collection of heterogeneous
@@ -84,7 +84,7 @@ to *IEEE Conference on Decision and Control*, 2022.
 ## Nonlinear and Nonsmooth Stability Analysis
 
 <p align="center">
-<img src="/figs/stability_1.png" width="400" height="285">`
+<img src="/figs/stability_1.png" width="500" height="356">`
 </p>
 
 Engineered systems naturally experience large disturbances which have the
