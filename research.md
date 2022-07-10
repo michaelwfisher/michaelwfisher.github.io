@@ -6,7 +6,9 @@ permalink: /research/
 
 ## Complex Systems
 
+<p align="center">
 ![Complex Systems](/figs/complex_systems.png)
+</p>
 
 Complex systems consist of devices with local dynamics and controllers that
 are coupled by physical or cyber networks.
@@ -23,7 +25,9 @@ complex systems, with particular focus in the following areas:
 
 ## Heterogeneous Ensemble Control
 
+<p align="center">
 <img src="/figs/ensemble_1.png" width="400" height="332">
+</p>
 
 The goal of this work is to control a collection of heterogeneous
 devices so that their aggregate dynamic behavior matches a desired dynamic
@@ -49,7 +53,9 @@ Transactions on Power Systems*, To appear.
 
 ## Optimal and Distributed Control
 
+<p align="center">
 ![Distributed Control](/figs/ensemble_2.png)
+</p>
 
 Optimal design of linear feedback controllers for devices distributed over a
 network is a difficult task, which becomes increasingly complex when
@@ -77,7 +83,9 @@ to *IEEE Conference on Decision and Control*, 2022.
 
 ## Nonlinear and Nonsmooth Stability Analysis
 
+<p align="center">
 <img src="/figs/stability_1.png" width="400" height="285">`
+</p>
 
 Engineered systems naturally experience large disturbances which have the
 potential to disrupt normal behavior.
@@ -106,7 +114,9 @@ Automatic Control*, 66(12): 6194-6196, 2021.  4.
 
 ## Linear Control to Improve Nonlinear Robustness
 
+<p align="center">
 <img src="/figs/stability_2.png" width="400" height="386">`
+</p>
 
 One measure of nonlinear robustness is the margin for safe operation:
 the smallest change in operating conditions - including system state and
