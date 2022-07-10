@@ -15,7 +15,11 @@ title: About
 |   Address: 200 University Avenue West, Waterloo, Ontario, Canada N2L 5G7
 |   Email: michael.fisher@uwaterloo.ca
 |   Phone: +1~(519)-888-4567~x31216
-
+|
+|
+|
+|
+|
 
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
