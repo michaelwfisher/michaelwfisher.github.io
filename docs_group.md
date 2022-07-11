@@ -7,13 +7,13 @@ permalink: /docs_group/
 
 Dynamics, Control, and Optimization of Complex Systems (DOCS) Group
 
-## PhD Student Supervision
+## PhD Students
 
 - 
 [Verena Häberle](https://control.ee.ethz.ch/people/profile.verena-haeberle.html)
 (co-advised with Florian Dörfler) at [ETH Zürich](https://control.ee.ethz.ch/)
 
-## Master Student Supervision
+## Master's Students
 
 ### Master's Thesis
 
