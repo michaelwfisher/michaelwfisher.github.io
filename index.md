@@ -33,9 +33,8 @@ A [brief biography](#brief-biography),
 my [Curriculum Vitae](cvMWF.pdf) and my profile on
 [Google Scholar](https://scholar.google.ca/citations?user=rozrGC8AAAAJ&hl=
 en&oi=ao).
-I am always looking for students with strong mathematical skills and interest
-in systems and control.
-Please click here to apply.
+I am always looking to hire students with strong mathematical skills and
+interest in systems and control.
 
 ## Research Interests
 
