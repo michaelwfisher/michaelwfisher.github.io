@@ -12,7 +12,6 @@ Dynamics, Control, and Optimization of Complex Systems (DOCS) Group
 - 
 [Verena Häberle](https://control.ee.ethz.ch/people/profile.verena-haeberle.html)
 (co-advised with Florian Dörfler) at [ETH Zürich](https://control.ee.ethz.ch/)
-(More details available [here](https://arxiv.org/pdf/2108.00925.pdf).)
 
 ## Master Student Supervision
 
