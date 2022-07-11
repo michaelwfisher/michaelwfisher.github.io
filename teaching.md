@@ -26,5 +26,5 @@ ETH Zürich, 2021
 
 ## Graduate Student Instructor
 
-- Nonlinear Dynamics and Control, graduate course at University of Michigan -
+- Nonlinear Dynamics and Control - graduate course at University of Michigan -
 Ann Arbor, 2018
