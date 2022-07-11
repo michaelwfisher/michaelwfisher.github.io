@@ -18,7 +18,7 @@ engineering/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: michael.fisher@uwaterloo.ca  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: +1 (519)-888-4567 x31216
 
-<br><br>
+<br><br><br>
 
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
