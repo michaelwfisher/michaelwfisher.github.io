@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+#title: About
 #![Profile Picture](/figs/profile_pic.jpg)
 ---
+
+# Michael Fisher, Assistant Professor
 
 <img style="float: left;" src="/figs/profile_pic2.jpg" width="300" height="286">
 
