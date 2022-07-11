@@ -8,7 +8,7 @@ title: ""
 
 <img style="float: left;" src="/figs/profile_pic2.jpg" width="300" height="286">
 
-<br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Department of Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
 engineering/)  
@@ -18,7 +18,7 @@ engineering/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: michael.fisher@uwaterloo.ca  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: +1 (519)-888-4567 x31216
 
-<br/>
+<br><br>
 
 I am an Assistant Professor in the department of
 [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
