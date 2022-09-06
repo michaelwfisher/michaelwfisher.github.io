@@ -38,7 +38,7 @@ of complex, cyber-physical systems.
 
 Recent topics of interest include:
 
-1. [heterogeneous ensemble devices](https://michaelwfisher.github.io/research/#heterogeneous-ensemble-control)
+1. [heterogeneous ensemble control](https://michaelwfisher.github.io/research/#heterogeneous-ensemble-control)
 2. [optimal and distributed control](https://michaelwfisher.github.io/research/#optimal-and-distributed-control)
 3. [nonlinear and nonsmooth stability analysis](https://michaelwfisher.github.io/research/#nonlinear-and-nonsmooth-stability-analysis)
 4. [linear control to improve nonlinear robustness](https://michaelwfisher.github.io/research/#linear-control-to-improve-nonlinear-robustness)
