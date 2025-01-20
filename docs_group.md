@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Dynamics, Control, and Optimization of Complex Systems (DOCS) Group"
+title: "DOCS Group"
 permalink: /docs_group/
 #Now hiring new graduate students at the University of Waterloo.
 ---
+
+### Dynamics, Control, and Optimization of Complex Systems (DOCS) Group
 
 ## Current Graduate Students
 
