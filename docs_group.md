@@ -24,10 +24,7 @@ at University of Waterloo
 
 ## Former Graduate Students
 
-- 
-[Verena Häberle](https://control.ee.ethz.ch/people/profile.verena-haeberle.html)
-(co-advised with Florian Dörfler) at [ETH Zürich](https://control.ee.ethz.ch/)
-(now a PhD candidate at ETH Zürich)
+- [Verena Häberle](https://control.ee.ethz.ch/people/profile.verena-haeberle.html) (co-advised with Florian Dörfler) at [ETH Zürich](https://control.ee.ethz.ch/) (now a PhD candidate at ETH Zürich)
 
 - [Francisco Canales Perez](https://ch.linkedin.com/in/francisco-canales-perez?trk=public_profile_browsemap) at [ETH Zürich](https://control.ee.ethz.ch/)
 (now a Control Engineer at ABB)
