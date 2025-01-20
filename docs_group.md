@@ -11,10 +11,14 @@ Dynamics, Control, and Optimization of Complex Systems (DOCS) Group
 
 - [Elin Liu](https://www.linkedin.com/in/elinliu2/?originalSubdomain=ca)
 at University of Waterloo
+
 - [Jinghan (Sam) Wang](https://www.linkedin.com/in/jinghan-sam-wang/?originalSubdomain=ca)
+
 - Zhong Fang
+
 - [Penny Kitaev](https://www.linkedin.com/in/alex-kitaev/?originalSubdomain=ca)
 (co-advised with Christopher Nielsen)
+
 - Murphy Wu (co-advised with Stephen Smith)
 
 
