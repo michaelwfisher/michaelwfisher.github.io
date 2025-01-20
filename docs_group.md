@@ -10,16 +10,16 @@ Dynamics, Control, and Optimization of Complex Systems (DOCS) Group
 ## Current Graduate Students
 
 - [Elin Liu](https://www.linkedin.com/in/elinliu2/?originalSubdomain=ca)
-at University of Waterloo
+at the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/)
 
-- [Jinghan (Sam) Wang](https://www.linkedin.com/in/jinghan-sam-wang/?originalSubdomain=ca) at University of Waterloo
+- [Jinghan (Sam) Wang](https://www.linkedin.com/in/jinghan-sam-wang/?originalSubdomain=ca) at the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/)
 
-- Zhong Fang at University of Waterloo
+- Zhong Fang at the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/)
 
 - [Penny Kitaev](https://www.linkedin.com/in/alex-kitaev/?originalSubdomain=ca)
-(co-advised with Christopher Nielsen) at University of Waterloo
+(co-advised with Christopher Nielsen) at the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/)
 
-- Murphy Wu (co-advised with Stephen Smith) at University of Waterloo
+- Murphy Wu (co-advised with Stephen Smith) at the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/)
 
 
 ## Former Graduate Students
