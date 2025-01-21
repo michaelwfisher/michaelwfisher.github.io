@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- Course Instructor
+- Course Instructor  
 Distributed Optimization (ECE 700) - graduate course at University of
 Waterloo, 2024
 
