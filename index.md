@@ -50,19 +50,13 @@ Group](https://michaelwfisher.github.io/docs_group/).
 
 ## Recent News
 
-- 2022: The preprints for our papers on a new optimal control design method
-using Hardy space approximations are now
-available [here](https://arxiv.org/pdf/2207.03982.pdf) and
-[here](https://arxiv.org/pdf/2203.16765v2.pdf).
+- 2024: Zhong presented our [paper](cdc2024_final.pdf) on a new optimal control
+design method at the IEEE Conference on Decision and Control in Milan.
 
-- 2022: Verena's paper on control design for dynamic virtual power plants
-has been accepted for publication
-(available [here](https://arxiv.org/pdf/2108.00925.pdf)).
-
-- 2022: Our paper on nonlinear stability analysis for generic vector fields
-has been published in *SIAM Applied Dynamical Systems*
-(available [here](https://epubs.siam.org/doi/pdf/10.1137/20M1371944)).
-
+- 2024: The preprints for our papers on nonlinear stability analysis of
+parameterized systems are now available
+[here](https://arxiv.org/abs/2501.07498) and
+[here](https://arxiv.org/abs/2501.07516).
 
 ## Brief Biography
 
