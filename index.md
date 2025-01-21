@@ -10,9 +10,9 @@ title: ""
 
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Department of Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-
-engineering/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [University of Waterloo](https://uwaterloo.ca/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Department of Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[University of Waterloo](https://uwaterloo.ca/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office: [EIT 3112](https://www.google.com/maps/place/Centre+for+Environmental+and+Information+Technology,+University+of,+Waterloo,+ON+N2L+3G1/@43.4714993,-80.5443037,17z/data=!3m1!4b1!4m5!3m4!1s0x882bf40191f340eb:0xd589fe3fc3732938!8m2!3d43.4714954!4d-80.542115)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 200 University Av. W., Waterloo, ON N2L 5G7  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: michael.fisher@uwaterloo.ca  
