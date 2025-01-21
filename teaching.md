@@ -5,8 +5,7 @@ permalink: /teaching/
 ---
 
 - Course Instructor
-
-&nbsp; Distributed Optimization (ECE 700) - graduate course at University of
+Distributed Optimization (ECE 700) - graduate course at University of
 Waterloo, 2024
 
 - Course Instructor
