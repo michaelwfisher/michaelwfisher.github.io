@@ -57,6 +57,10 @@ parameterized systems are now available
 [here](https://arxiv.org/abs/2501.07498) and
 [here](https://arxiv.org/abs/2501.07516).
 
+- 2024: Our [paper](tac2024_final.pdf) introducing a new Hardy space
+approximation for control design was accepted for publication in
+*IEEE Transactions on Automatic Control*.
+
 ## Brief Biography
 
 Michael W. Fisher joined the University of Waterloo in 2022, where he leads the
