@@ -10,7 +10,7 @@ Waterloo, 2024
 
 - Course Instructor  
 Digital Control Applications (ECE 484) -  undergraduate course at
-University of Waterloo, 2022, 2023, 2024
+University of Waterloo, 2022-2024
 
 - Guest Lecturer  
 Power System Dynamics, Control, and Operation - graduate course at
@@ -24,7 +24,7 @@ Ann Arbor, 2018
 Power System Dynamics, Control, and Operation - graduate course at
 ETH Zürich, 2021
 
-- Teaching Assistant
+- Teaching Assistant  
 Control Systems 1 - undergraduate course at ETH Zürich, 2020
 
 - Graduate Student Instructor  
